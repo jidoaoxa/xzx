@@ -2,7 +2,7 @@ local Toggle_Key = "e"
 
 local Rejoin_Key = "="
 
-local Prediction = .3599 -- DO NOT ask for me for HELP for this shit I HATE when people do that. Figure it out on your own you have brain cells.
+local Prediction = .0.1248710929171 -- DO NOT ask for me for HELP for this shit I HATE when people do that. Figure it out on your own you have brain cells.
 
 local Y_Axis_Aim_Height = -1
 
