@@ -1,4 +1,4 @@
-local Toggle_Key = "c"
+local Toggle_Key = "e"
 
 local Rejoin_Key = "="
 
